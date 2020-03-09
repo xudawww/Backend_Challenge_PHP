@@ -54,9 +54,9 @@ class secondTask extends Command
                     
                     
             
-        var_dump($finallistString);    }
+           }
           
-           
+            var_dump($finallistString);
 
         
       
