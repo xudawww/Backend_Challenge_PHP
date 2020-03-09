@@ -5,7 +5,7 @@
 <h1>PHP Internship Backend Challenge</h1>
 
 
-<p>Notice: If you want to run this app in your local host, you need to check the information in .envfile, however, in this git , there is no .env file, you need to change the file of .env.example to .env and in app/Http/config/database.php, you need to change the information of  'database' => env('DB_DATABASE', 'TVShow'), 'username' => env('DB_USERNAME', 'xuda'), 'password' => env('DB_PASSWORD', '2181022'). Or you can change your db and user credential like this.
+<p>Notice: If you want to run this app in your local host, you need to check the information in .envfile, however, in this git , there is no .env file, you need to change the file of .env.example to .env and in app/Http/config/database.php, you need to change the information of  'database' => env('DB_DATABASE', 'TVShow'), 'username' => env('DB_USERNAME', 'xuda'), 'password' => env('DB_PASSWORD', '2181022'). Or you can change your db and user credential like this.The sql files are inside the sql directory.
 </p>
 <h1>In question 1, screenshot:</h1>
 <p>Add TVShow: </p>
