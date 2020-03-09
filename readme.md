@@ -10,9 +10,9 @@ Notice: If you want to run this app in your local host, you need to check the in
 
 In question 1, screenshot:
 Add TVShow:
-<img src="Screen Shot 2020-03-09 at 3.09.14 PM.png">
-<img src="Screen Shot 2020-03-09 at 3.10.14 PM.png">
-<img src="Screen Shot 2020-03-09 at 3.10.21 PM.png">
+<img src="Screen Shot 2020-03-09 at 3.09.14 PM.png" width='200px'>
+<img src="Screen Shot 2020-03-09 at 3.10.14 PM.png" width='200px'>
+<img src="Screen Shot 2020-03-09 at 3.10.21 PM.png" width='200px'>
 
 
 
