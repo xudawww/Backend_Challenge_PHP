@@ -5,14 +5,14 @@
 <h1>PHP Internship Backend Challenge</h1>
 
 
-Notice: If you want to run this app in your local host, you need to check the information in env. and in app/Http/config/database.php, you need to change the information of  'database' => env('DB_DATABASE', 'TVShow'),
+<p>Notice: If you want to run this app in your local host, you need to check the information in env. and in app/Http/config/database.php, you need to change the information of  'database' => env('DB_DATABASE', 'TVShow'),
 'username' => env('DB_USERNAME', 'xuda'), 'password' => env('DB_PASSWORD', '2181022'). Or you can change your db and user credential like this.
-
-In question 1, screenshot:
-Add TVShow:
-<img src="Screen Shot 2020-03-09 at 3.09.14 PM.png" width='200px'>
-<img src="Screen Shot 2020-03-09 at 3.10.14 PM.png" width='200px'>
-<img src="Screen Shot 2020-03-09 at 3.10.21 PM.png" width='200px'>
+</p>
+<h1>In question 1, screenshot:</h1>
+<p>Add TVShow:</p>
+<img style='float:left' src="Screen Shot 2020-03-09 at 3.09.14 PM.png" width='400px'>
+<img style='float:left' src="Screen Shot 2020-03-09 at 3.10.14 PM.png" width='400px'>
+<img style='float:left' src="Screen Shot 2020-03-09 at 3.10.21 PM.png" width='400px'>
 
 
 
