@@ -10,9 +10,9 @@
 </p>
 <h1>In question 1, screenshot:</h1>
 <p>Add TVShow:</p>
-<img style='float:left' src="Screen Shot 2020-03-09 at 3.09.14 PM.png" width='400px'>
-<img style='float:left' src="Screen Shot 2020-03-09 at 3.10.14 PM.png" width='400px'>
-<img style='float:left' src="Screen Shot 2020-03-09 at 3.10.21 PM.png" width='400px'>
+<img  src="Screen Shot 2020-03-09 at 3.09.14 PM.png" width='500px'>
+<img  src="Screen Shot 2020-03-09 at 3.10.14 PM.png" width='500px'>
+<img  src="Screen Shot 2020-03-09 at 3.10.21 PM.png" width='500px'>
 
 
 
