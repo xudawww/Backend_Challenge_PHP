@@ -26,7 +26,9 @@
 
 <h1>In question 2, screenshot:</h1>
 
-
+<p>The commandline Console</p>
+<img  src="Screen Shot 2020-03-09 at 3.51.16 PM.png" width='500px'>
+<img  src="Screen Shot 2020-03-09 at 3.51.24 PM.png" width='500px'>
 
 
 
